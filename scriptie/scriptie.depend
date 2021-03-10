@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613737743 source:c:\users\sjors\documents\code\scriptie\main.c
+	<stdio.h>
+	<stdint-gcc.h>
+	<time.h>
+	<stdlib.h>
+

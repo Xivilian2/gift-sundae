@@ -1,0 +1,5 @@
+begin maken met aanval doormiddel van key bits uit te rekenen aan de hand van s-box zaterdag.
+opschrijven van stap 2
+scriptie aanpassen en opsturen. GIFt Sundae en toebehoren goed geburiken. 
+Aanpassen linair cryptanalysis stap. 
+Plaatjes updaten. 
